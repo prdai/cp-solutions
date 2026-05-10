@@ -1,3 +1,3 @@
 # competitive programming solutions
 
-my solutions to various competitive programming problems from different platforms. this repository serves as a personal archive of my problem-solving journey.
+personal archive of my competitive programming, leetcode, dsa, and algorithm practice.
